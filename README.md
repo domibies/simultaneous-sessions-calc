@@ -27,3 +27,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License.
+
+## Disclaimer
+
+This application was primarily developed using an AI language model (Claude 3.5 Sonnet) via [Claude Dev](https://github.com/saoudrizwan/claude-dev). While efforts have been made to ensure accuracy and functionality, please use the results as estimates and validate them for your specific use case.
