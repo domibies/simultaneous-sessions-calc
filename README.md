@@ -1,51 +1,29 @@
 # Simultaneous Sessions Calculator
 
-This is a web application built with React and Tailwind CSS to calculate simultaneous sessions.
+A React-based web application to estimate the average and peak number of simultaneous sessions for digital content applications. Useful for capacity planning, such as estimating the number of required SignalR connections.
 
-## Getting Started
+## Live Demo
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+[Try the calculator here](https://simultaneous-sessions-calc.vercel.app)
 
-### Prerequisites
+## Features
 
-- Node.js (latest stable version)
-- npm (comes with Node.js)
+- Calculate average and peak simultaneous sessions
+- Adjustable input parameters
+- Responsive design with dark mode support
+- Built with React and Tailwind CSS
 
-### Installing
+## Local Development
 
 1. Clone the repository
-   ```
-   git clone https://github.com/yourusername/simultaneous-sessions-calc.git
-   ```
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-2. Navigate to the project directory
-   ```
-   cd simultaneous-sessions-calc
-   ```
+## Contributing
 
-3. Install dependencies
-   ```
-   npm install
-   ```
-
-4. Start the development server
-   ```
-   npm start
-   ```
-
-The application should now be running on [http://localhost:3000](http://localhost:3000).
-
-## Built With
-
-- [React](https://reactjs.org/) - The web framework used
-- [TypeScript](https://www.typescriptlang.org/) - For type-safe JavaScript
-- [Tailwind CSS](https://tailwindcss.com/) - For styling
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- Create React App
-- Tailwind CSS team
